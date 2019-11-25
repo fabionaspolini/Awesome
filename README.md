@@ -12,6 +12,7 @@
 
 ### C Sharp
 
+- [Maestria Extensions Methods](https://github.com/orgs/MaestriaNet): Métodos de extensões para incrementar a produtividade em C#;
 - [Humanizer](https://github.com/Humanizr/Humanizer): Manipulação de strings, enums, times, timespans, numbers e quantidades para apresentação mais legível ao ser humano;
 - [FluentDateTime](https://github.com/FluentDateTime/FluentDateTime): Extensões para operações com data e hora;
 - [SmartFormat](https://github.com/axuno/SmartFormat): Incremento para string.format();
