@@ -1,0 +1,71 @@
+<!--
+  Fazer backup do arquivos de configurações do wexflow.
+  Cada servidor deve agendar seu próprio backup fazendo upload o FTP.
+
+  Pré-requisitos:
+  - Remover acesso exclusivo do wexflow ao arquivo de dados. 
+    Editar arquivo "C:\Wexflow-dotnet-core\Wexflow.xml" e editar connection string, removendo a parte de acesso exclusivo.
+-->
+
+<Workflow id="$id" name="Wexflow self backup" description="Wexflow self backup" xmlns="urn:wexflow-schema">
+  <Settings>
+    <Setting name="launchType" value="cron" />
+    <Setting name="enabled" value="true" />
+    <Setting name="approval" value="false" />
+    <Setting name="cronExpression" value="0 40 0 1/1 * ? *" />
+  </Settings>
+  <LocalVariables></LocalVariables>
+  <Tasks>
+    <Task id="1" name="Rmdir" description="Limpando  diretório de trabalho" enabled="true">
+      <Setting name="folder" value="C:\Wexflow-dotnet-core\Database\Temp" />
+    </Task>
+    <Task id="2" name="Mkdir" description="Verificar e criar pasta de trabalho" enabled="true">
+      <Setting name="folder" value="C:\Wexflow-dotnet-core\Database\Temp" />
+    </Task>
+    <Task id="3" name="FilesLoader" description="Carregar arquivos configurações" enabled="true">
+      <Setting name="folder" value="C:\Wexflow-dotnet-core\Database" />
+    </Task>
+    <Task id="4" name="FilesCopier" description="Copiar para pasta temporária" enabled="true">
+      <Setting name="selectFiles" value="3" />
+      <Setting name="destFolder" value="C:\Wexflow-dotnet-core\Database\Temp" />
+      <Setting name="overwrite" value="true" />
+    </Task>
+    <Task id="5" name="Ftp" description="Listar arquivos FTP" enabled="true">
+      <Setting name="command" value="list" />
+      <Setting name="protocol" value="ftp" />
+      <Setting name="server" value="FTP_HOST" />
+      <Setting name="port" value="21" />
+      <Setting name="user" value="FTP_LOGIN" />
+      <Setting name="password" value="FTP_PASSWORD" />
+      <Setting name="path" value="/Wexflow configs/PROJETO/" />
+      <Setting name="retryCount" value="20" />
+      <Setting name="retryTimeout" value="30000" />
+    </Task>
+    <Task id="6" name="Ftp" description="Limpando FTP" enabled="true">
+      <Setting name="selectFiles" value="5" />
+      <Setting name="command" value="delete" />
+      <Setting name="protocol" value="ftp" />
+      <Setting name="server" value="FTP_HOST" />
+      <Setting name="port" value="21" />
+      <Setting name="user" value="FTP_LOGIN" />
+      <Setting name="password" value="FTP_PASSWORD" />
+      <Setting name="retryCount" value="20" />
+      <Setting name="retryTimeout" value="30000" />
+    </Task>
+    <Task id="7" name="Ftp" description="Carregando arquivos para FTP" enabled="true">
+      <Setting name="selectFiles" value="4" />
+      <Setting name="command" value="upload" />
+      <Setting name="protocol" value="ftp" />
+      <Setting name="server" value="FTP_HOST" />
+      <Setting name="port" value="21" />
+      <Setting name="user" value="FTP_LOGIN" />
+      <Setting name="password" value="FTP_PASSWORD" />
+      <Setting name="path" value="/Wexflow configs/PROJETO/" />
+      <Setting name="retryCount" value="20" />
+      <Setting name="retryTimeout" value="30000" />
+    </Task>
+    <Task id="8" name="Rmdir" description="Limpando  diretório de trabalho" enabled="true">
+      <Setting name="folder" value="C:\Wexflow-dotnet-core\Database\Temp" />
+    </Task>
+  </Tasks>
+</Workflow>
