@@ -65,9 +65,9 @@ FROM [sys].[dm_db_missing_index_group_stats] gs WITH (NOLOCK)
      JOIN [sys].[dm_db_missing_index_groups] ig WITH (NOLOCK) ON gs.[group_handle] = ig.[index_group_handle]
      JOIN [sys].[dm_db_missing_index_details] id WITH (NOLOCK) ON ig.[index_handle] = id.[index_handle]
      JOIN [sys].[databases] db WITH (NOLOCK) ON db.[database_id] = id.[database_id]
--- where db.[name] = 'workshop02-performance'
+-- where db.[name] = 'DATABASE_NAME'
 WHERE  db.[database_id] = DB_ID()
--- AND OBJECT_NAME(id.[object_id], db.[database_id]) like 'LOTE%'
+-- AND OBJECT_NAME(id.[object_id], db.[database_id]) like 'TABLE_NAME%'
 ORDER BY ObjectName, [IndexAdvantage] DESC
 OPTION (RECOMPILE);
 
@@ -83,7 +83,7 @@ from sys.dm_db_missing_index_groups g with (nolock)
 	 join sys.dm_db_missing_index_group_stats s with (nolock) on s.group_handle = g.index_group_handle
 	 join sys.dm_db_missing_index_details d with (nolock) on d.index_handle = g.index_handle
      join [sys].[databases] db with (nolock) ON db.[database_id] = d.[database_id]
--- where db.[name] = 'workshop02-performance'
+-- where db.[name] = 'DATABASE_NAME'
 order by [total cost] desc;
 
 -- Queries lentas
@@ -108,5 +108,5 @@ select top 20
 from sys.dm_exec_query_stats as qs
 cross apply sys.dm_exec_sql_text(qs.sql_handle) st
 where st.text like '%Pessoa%'
--- where st.text like '%DocumentoSemIndice2%'
+-- where st.text like '%SQL_TEXT%'
 order by total_elapsed_time / execution_count desc;
