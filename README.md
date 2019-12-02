@@ -45,3 +45,10 @@
 ## Workflow Engines
 
 - [Wexflow](https://wexflow.github.io/): Orquestrador de fluxo de trabalho para manipular arquivos, executar processos e tarefas agendadas;
+
+---
+
+## Private Cloud / File System Manager
+
+- [Next Cloud](https://nextcloud.com/): Núvem privada, com web site, aplicativo multi-plataforma, suporte a deploy no docker, histórico de versões de arquivos, vários plugins oficiais e da comunidade, etc.
+- [ownCloud](https://owncloud.org/);
