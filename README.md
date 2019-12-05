@@ -12,11 +12,17 @@
 
 ### C Sharp
 
-- [Maestria Extensions Methods](https://github.com/orgs/MaestriaNet): Métodos de extensões para incrementar a produtividade em C#;
-- [Humanizer](https://github.com/Humanizr/Humanizer): Manipulação de strings, enums, times, timespans, numbers e quantidades para apresentação mais legível ao ser humano;
-- [FluentDateTime](https://github.com/FluentDateTime/FluentDateTime): Extensões para operações com data e hora;
-- [SmartFormat](https://github.com/axuno/SmartFormat): Incremento para string.format();
-- [Flurl](https://flurl.dev/): Fluent library para HTTP e URL;
+- [Maestria Extensions Methods](https://github.com/orgs/MaestriaNet): Métodos de extensões para incrementar a produtividade em C#.
+- [Humanizer](https://github.com/Humanizr/Humanizer): Manipulação de strings, enums, times, timespans, numbers e quantidades para apresentação mais legível ao ser humano.
+- [FluentDateTime](https://github.com/FluentDateTime/FluentDateTime): Extensões para operações com data e hora.
+- [SmartFormat](https://github.com/axuno/SmartFormat): Incremento para string.format().
+- [Flurl](https://flurl.dev/): Fluent library para HTTP e URL.
+
+---
+
+### Ferramentas úteis
+
+- [gitignore.io](https://www.gitignore.io): Crie arquivos .gitignore úteis para o seu projeto.
 
 ---
 
@@ -24,31 +30,31 @@
 
 ### SQL Server
 
-- [Blitz](https://www.brentozar.com/blitz/): Administração de banco de dados;
-- [Scripts úteis](Banco%20de%20Dados/SQL%20Server/Util.sql): Coleção de scripts;
+- [Blitz](https://www.brentozar.com/blitz/): Administração de banco de dados.
+- [Scripts úteis](Banco%20de%20Dados/SQL%20Server/Util.sql): Coleção de scripts.
 
 ### PostgreSQL
 
 - [Página oficial](https://www.postgresql.org/)
-- [PostGIS](https://postgis.net/): Extensão para adicionar suportes a objetos geográficos;
-- [pg_prewarm](https://www.postgresql.org/docs/current/pgprewarm.html): Operar base de dados na memória RAM;
+- [PostGIS](https://postgis.net/): Extensão para adicionar suportes a objetos geográficos.
+- [pg_prewarm](https://www.postgresql.org/docs/current/pgprewarm.html): Operar base de dados na memória RAM.
 
 ---
 
 ## Infra estrutura
 
-- [Docker](https://www.docker.com/): Virtualização de ambiente para aplicações;
-- [Chocolatey](https://chocolatey.org/): Gerenciador de pacotes para windows (Semelhante ao apt-get / yum do Linux);
+- [Docker](https://www.docker.com/): Virtualização de ambiente para aplicações.
+- [Chocolatey](https://chocolatey.org/): Gerenciador de pacotes para windows (Semelhante ao apt-get / yum do Linux).
 
 ---
 
 ## Workflow Engines
 
-- [Wexflow](https://wexflow.github.io/): Orquestrador de fluxo de trabalho para manipular arquivos, executar processos e tarefas agendadas;
+- [Wexflow](https://wexflow.github.io/): Orquestrador de fluxo de trabalho para manipular arquivos, executar processos e tarefas agendadas.
 
 ---
 
 ## Private Cloud / File System Manager
 
 - [Next Cloud](https://nextcloud.com/): Núvem privada, com web site, aplicativo multi-plataforma, suporte a deploy no docker, histórico de versões de arquivos, vários plugins oficiais e da comunidade, etc.
-- [ownCloud](https://owncloud.org/);
+- [ownCloud](https://owncloud.org/).
