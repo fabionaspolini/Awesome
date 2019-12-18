@@ -25,6 +25,7 @@
 
 - [gitignore.io](https://www.gitignore.io): Crie arquivos .gitignore úteis para o seu projeto.
 - [Stack Trace Formatter](https://elmah.io/tools/stack-trace-formatter): Formatar log de erros .NET.
+- [DoFactory](https://www.dofactory.com/net/design-patterns): Consulta rápida de padrões de projetos.
 
 ---
 
@@ -59,3 +60,16 @@
 
 - [Next Cloud](https://nextcloud.com/): Núvem privada, com web site, aplicativo multi-plataforma, suporte a deploy no docker, histórico de versões de arquivos, vários plugins oficiais e da comunidade, etc.
 - [ownCloud](https://owncloud.org/): Núvem privada.
+
+---
+
+## Geração de conteúdo
+
+- [gaGO.io](https://gago.io/)
+
+---
+
+## Podcasts
+
+- [Lambda3](https://www.lambda3.com.br/lambda3-podcast/): Assuntos técnicos e não técnicos variados.
+- [DevShow](https://devshow.com.br/): Focado em arquitetura e dotnet. Podcast do grupo DotNet Brasil do site [gaGO.io](https://gago.io/).
