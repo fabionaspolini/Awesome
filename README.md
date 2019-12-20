@@ -66,6 +66,7 @@
 ## Geração de conteúdo
 
 - [gaGO.io](https://gago.io/)
+- [EximiaCO.tech](https://www.eximiaco.tech/pt/thinking/)
 
 ---
 
