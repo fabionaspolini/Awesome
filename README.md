@@ -97,6 +97,8 @@
 
 - [Next Cloud](https://nextcloud.com/): Núvem privada, com web site, aplicativo multi-plataforma, suporte a deploy no docker, histórico de versões de arquivos, vários plugins oficiais e da comunidade, etc.
 - [ownCloud](https://owncloud.org/): Núvem privada.
+- [Wiki.JS](https://wiki.js.org/): Wiki privada open source.
+- [Book Stack](https://www.bookstackapp.com/): Wiki privada open source.
 
 ---
 
