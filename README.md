@@ -3,14 +3,13 @@
 <div align="center">
     <img width="200" height="140" src="resources/icon.png" alt="Awesome">
     <br>
-    <br>    
-    <p>Coisas interessantes e úteis para estudo</p>
+    <br>
+    <p>Coisas interessantes e úteis para estudo.</p>
+    <p>Material com foco em tecnologia Microsoft .NET</p>
     <br>
 </div>
 
-## Bibliotecas úteis
-
-### .NET
+## Bibliotecas úteis .NET
 
 - [Maestria Extensions Methods](https://github.com/orgs/MaestriaNet): Métodos de extensões para incrementar a produtividade em C#.
 - [Humanizer](https://github.com/Humanizr/Humanizer): Manipulação de strings, enums, times, timespans, numbers e quantidades para apresentação mais legível ao ser humano.
@@ -37,6 +36,8 @@
 - [Cmder](https://cmder.net/): Emulator de terminal para windows com suporte a cmd, powershell, bash, ssh, entre outros.
 - [Visual Studio Code](https://code.visualstudio.com/): Ferramenta de desenvolvimento open source e versátil da Microsoft.
 - [Notepad++](https://notepad-plus-plus.org/downloads/): Ferramenta de edição de arquivos e código fonte open source;
+- [IL Spy](https://github.com/icsharpcode/ILSpy): .NET assembly browser and decompiler (IL and C# preview from binary).
+- [NSwagStudio](https://github.com/RicoSuter/NSwag/wiki/NSwagStudio): Gerador de cliente HTTP .NET/TypeScript a partir da especificação Swagger da API.
 
 ---
 
@@ -114,3 +115,7 @@
 - [Lambda3](https://www.lambda3.com.br/lambda3-podcast/): Assuntos técnicos em geral.
 - [DevShow](https://devshow.com.br/): Podcast do grupo DotNet Brasil. Principais conteúdos: .NET, Arquitetura, Docker e Micro Serviços.
 - [Fábio Akita](https://www.youtube.com/user/AkitaOnRails): Empreendedor e entusiasta tecnológico falando sobre assuntos técnicos e de mercado.
+
+### Artigos interessantes
+
+- [SynchronizationContext and ConfigureAwait](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
