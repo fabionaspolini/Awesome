@@ -30,6 +30,7 @@
 - [Stack Trace Formatter](https://elmah.io/tools/stack-trace-formatter): Formatar log de erros .NET.
 - [DoFactory](https://www.dofactory.com/net/design-patterns): Consulta rápida de padrões de projetos.
 - [db-engines](https://db-engines.com/en/ranking): Web site com indice de uso/popularidade dos sistema de armazenamento de dados e modelos de dados suportados.
+- [Stackblitz](https://stackblitz.com): Editor de código fonte online.
 
 ### Desktop
 
@@ -88,9 +89,12 @@
 
 ---
 
-## Workflow Engines
+## Workflow Engines / CI-CD
 
 - [Wexflow](https://wexflow.github.io/): Orquestrador de fluxo de trabalho multi plataforma para manipular arquivos, executar processos, tarefas agendadas e suporte a tasks personalizadas .NET.
+- [AppVeyor](https://www.appveyor.com/): CI/CD multi plataforma focado em Microsoft .NET. Possui instalação free self-hosted além da plataforma in cloud.
+- [Jenkis](https://jenkins.io/): CI/CD free de ampla utilização. Instalação self-hosted.
+- [Circle CI](https://circleci.com/): CI/CD in cloud. Free apenas para projetos open source.
 
 ---
 
