@@ -31,6 +31,7 @@
 - [DoFactory](https://www.dofactory.com/net/design-patterns): Consulta rápida de padrões de projetos.
 - [db-engines](https://db-engines.com/en/ranking): Web site com indice de uso/popularidade dos sistema de armazenamento de dados e modelos de dados suportados.
 - [Stackblitz](https://stackblitz.com): Editor de código fonte online.
+- [Let's Encrypt](https://letsencrypt.org/pt-br/docs/client-options/): Autoridade certificadora gratuita, automatizada e aberta. Gere seu certificado HTTPS gratuitamente.
 
 ### Desktop
 
@@ -39,6 +40,7 @@
 - [Notepad++](https://notepad-plus-plus.org/downloads/): Ferramenta de edição de arquivos e código fonte open source;
 - [IL Spy](https://github.com/icsharpcode/ILSpy): .NET assembly browser and decompiler (IL and C# preview from binary).
 - [NSwagStudio](https://github.com/RicoSuter/NSwag/wiki/NSwagStudio): Gerador de cliente HTTP .NET/TypeScript a partir da especificação Swagger da API.
+- [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit): Ferramenta de zoom e rabiscos útil para apresentações.
 
 ---
 
@@ -75,6 +77,21 @@
   - Cache de dados persistidos em mecasnismos de armazenamentos lentos (Discos).
   - Message broker.
   - Compartilhamento de dados entre servidores balanceados.
+
+---
+
+## Big Data
+
+### [Debezium](https://debezium.io/)
+
+Ferramenta para stream de dados "Change Data Capture", é acoplado ao servidor de banco de dados e trabalha com os logs binários gerados pelos mesmo, notificando através do Kafka todo evento de insert/update/delete nas tabelas monitoradas.  
+Licença: Open Source livre para uso comercial.
+
+### [Starburst Presto](https://www.starburstdata.com/starburst-presto-sql/)
+
+SQL Engine para manipular várias fontes de dados em simultâneo.  
+Possibilita conectar em N provedores de dadso relacionais, NoSQL, arquivos, sumarizando tudo através de syntax SQL e obter a combinação de todos os dados numa única consulta.  
+Trabalha distribuindo o processamento em paralelo para cada fonte e unindo in memory no servidor Presto e retornando a aplicação.  
 
 ---
 
