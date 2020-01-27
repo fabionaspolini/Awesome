@@ -19,6 +19,7 @@
 - [Flurl](https://flurl.dev/): Fluent library para HTTP e URL.
 - [Hangfire](https://www.hangfire.io/): Uma maneira fácil de executar o processamento em segundo plano nos aplicativos .NET e .NET Core. Nenhum serviço do Windows ou processo separado é necessário. Aberto e gratuito para uso comercial.
 - [Quartz.NET](https://www.quartz-scheduler.net/): Sistema completo de agendamento de tarefas de código aberto que pode ser usado desde os aplicativos mais pequenos até os sistemas corporativos de grande escala. Versão .NET do projeto original [Java](http://www.quartz-scheduler.org/).
+- [NLog](https://nlog-project.org/): Poderoso gerador de logs com suporte a armazenamento em diferentes provedores de dados e persnalização do layout de escrita.
 
 ---
 
@@ -36,6 +37,8 @@
 - [db-engines](https://db-engines.com/en/ranking): Web site com indice de uso/popularidade dos sistema de armazenamento de dados e modelos de dados suportados.
 - [Stackblitz](https://stackblitz.com): Editor de código fonte online.
 - [Let's Encrypt](https://letsencrypt.org/pt-br/docs/client-options/): Autoridade certificadora gratuita, automatizada e aberta. Gere seu certificado HTTPS gratuitamente.
+- [Public Api's](https://github.com/public-apis/public-apis): Lista com diversas API's públicas para uso e testes.
+- [Fake Json](https://fakejson.com/): Mock JSON Api.
 
 ### Desktop
 
