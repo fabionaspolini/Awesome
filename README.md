@@ -43,6 +43,8 @@
 ### Desktop
 
 - [Cmder](https://cmder.net/): Emulator de terminal para windows com suporte a cmd, powershell, bash, ssh, entre outros.
+- [MobaXterm](https://mobaxterm.mobatek.net/): Terminal para ambiente SSH para plataforma Windows. Possui recursos como transferência de arquivos e digitação em multiplos consoles simultâneos.
+- [Terminator](https://gnometerminator.blogspot.com/p/introduction.html?m=1): Terminal para plataforma Linux com suporte a digitação em multiplos consoles simultâneos.
 - [Visual Studio Code](https://code.visualstudio.com/): Ferramenta de desenvolvimento open source e versátil da Microsoft.
 - [Notepad++](https://notepad-plus-plus.org/downloads/): Ferramenta de edição de arquivos e código fonte open source;
 - [IL Spy](https://github.com/icsharpcode/ILSpy): .NET assembly browser and decompiler (IL and C# preview from binary).
@@ -134,7 +136,8 @@ Trabalha distribuindo o processamento em paralelo para cada fonte e unindo in me
 ## Web Hosts / VPS / Cloud
 
 - [SSDNodes](https://www.ssdnodes.com/)
-- [Hetzner](https://www.hetzner.com/)
+- [Hetzner](https://www.hetzner.com/): Serviço europeu acessível. Prós: Custo, Contra: Latência. Bom para ambientes de desenvolvimento.
+- [Scaleway](https://www.scaleway.com/): Serviço europeu acessível. Prós: Custo, Contra: Latência. Bom para ambientes de desenvolvimento.
 
 ## Geração de conteúdo
 
