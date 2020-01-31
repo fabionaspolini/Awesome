@@ -23,10 +23,6 @@
 
 ---
 
-## Java / Kotlin
-
-- [Spring initialzr](https://start.spring.io/): Bootstrap application
-
 ## Ferramentas / Tools
 
 ### Online
@@ -155,3 +151,13 @@ Trabalha distribuindo o processamento em paralelo para cada fonte e unindo in me
 ### Artigos interessantes
 
 - [SynchronizationContext and ConfigureAwait](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
+
+## Outras linguagens
+
+### Java / Kotlin
+
+- [Spring initialzr](https://start.spring.io/): Bootstrap application
+
+### Go
+
+- [Iniciação](https://go-tour-br.appspot.com/welcome/1): Tutorial de iniciação em português.
