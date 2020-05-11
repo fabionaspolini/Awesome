@@ -51,6 +51,13 @@
 
 ---
 
+## Visual Studio Code (VSCode) - Plugins
+
+- [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager): Facilitar mudança de workspace.
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Incrementando integração com Git.
+
+---
+
 ## Banco de dados
 
 ### SQL Server
