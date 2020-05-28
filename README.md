@@ -36,6 +36,7 @@
 - [Let's Encrypt](https://letsencrypt.org/pt-br/docs/client-options/): Autoridade certificadora gratuita, automatizada e aberta. Gere seu certificado HTTPS gratuitamente.
 - [Public Api's](https://github.com/public-apis/public-apis): Lista com diversas API's públicas para uso e testes.
 - [Fake Json](https://fakejson.com/): Mock JSON Api.
+- [Slido](https://www.sli.do/): Plataforma de enquetes.
 
 ### Desktop
 
@@ -55,6 +56,11 @@
 
 - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager): Facilitar mudança de workspace.
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Incrementando integração com Git.
+- [Numered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks): Marcar local no código e navegar entre marcações através de atalhos numérico.
+
+## DBeaver Plugins
+
+- [Extension Office](https://github.com/dbeaver/dbeaver/wiki/Extension-Office): Exportar resultado do SQL para Excel.
 
 ---
 
@@ -66,7 +72,7 @@
   - [Express](https://www.microsoft.com/pt-br/sql-server/sql-server-editions-express): Gratuita com limitações para uso comercial, verifique o comparativo entre versões para ver se não é prejudicial ao seu ambiente.
   - [Developer](https://www.cloudmotion.com.br/blog/2018/02/09/afinal-o-sql-server-developer-edition-e-de-graca/): Esta versão possui todas as features da versão entreprise, porém destina-se a uso em ambiente de testes e desenvolvimento.  Pode ser obtido gratuitamente, mas sua licença não autoriza o uso em ambiente produtivo. Possui sérias restrições de performance.
   - [Enterpise](https://www.microsoft.com/pt-br/sql-server/sql-server-2017-pricing): Versão completa do sistema para uso comercial.
-  - [Comparativo](https://www.microsoft.com/pt-br/sql-server/sql-server-2017-editions).
+  - [Comparativo](https://docs.microsoft.com/en-us/sql/sql-server/editions-and-components-of-sql-server-version-15?view=sql-server-ver15#Cross-BoxScaleLimits).
 - Armazenamento multi-modelo:
   - Relacional
   - Documentos
