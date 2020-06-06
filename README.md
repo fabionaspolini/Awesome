@@ -176,3 +176,7 @@ Trabalha distribuindo o processamento em paralelo para cada fonte e unindo in me
 ### Go
 
 - [Iniciação](https://go-tour-br.appspot.com/welcome/1): Tutorial de iniciação em português.
+
+### Javascript
+
+- [Highlighter](https://www.npmjs.com/package/react-highlight-words): Destacar parte do texto. 
