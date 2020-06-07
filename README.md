@@ -57,6 +57,7 @@
 - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager): Facilitar mudança de workspace.
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Incrementando integração com Git.
 - [Numered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks): Marcar local no código e navegar entre marcações através de atalhos numérico.
+- [Bebel](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel): Syntax highlighting para React JSX, Flow e GraphQL.
 
 ## DBeaver Plugins
 
