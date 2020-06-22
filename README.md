@@ -9,7 +9,9 @@
     <br>
 </div>
 
-## Bibliotecas úteis .NET
+## Bibliotecas úteis
+
+### .NET
 
 - [Maestria Extensions Methods](https://github.com/orgs/MaestriaNet): Métodos de extensões para incrementar a produtividade em C#.
 - [Humanizer](https://github.com/Humanizr/Humanizer): Manipulação de strings, enums, times, timespans, numbers e quantidades para apresentação mais legível ao ser humano.
@@ -22,9 +24,17 @@
 - [NLog](https://nlog-project.org/): Poderoso gerador de logs com suporte a armazenamento em diferentes provedores de dados e persnalização do layout de escrita.
 - [CacheManager](http://cachemanager.michaco.net/): Biblioteca poderosa para pipeline de chaches.
 
+### Angular
+
+- [OpenID Connect](https://www.npmjs.com/package/angular-auth-oidc-client): Angular Lib para OpenID Connect & OAuth2.
+
+### React
+
+- [Highlighter](https://www.npmjs.com/package/react-highlight-words): Destacar parte do texto. 
+
 ---
 
-## Ferramentas / Tools
+## Ferramentas
 
 ### Online
 
@@ -52,14 +62,20 @@
 
 ---
 
-## Visual Studio Code (VSCode) - Plugins
+## Plugins 
+
+### Visual Studio Code (VSCode)
 
 - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager): Facilitar mudança de workspace.
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Incrementando integração com Git.
 - [Numered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks): Marcar local no código e navegar entre marcações através de atalhos numérico.
 - [Bebel](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel): Syntax highlighting para React JSX, Flow e GraphQL.
 
-## DBeaver Plugins
+### Chrome
+
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en): Extensão para visualizar state React no Google Chrome.
+
+### DBeaver
 
 - [Extension Office](https://github.com/dbeaver/dbeaver/wiki/Extension-Office): Exportar resultado do SQL para Excel.
 
@@ -177,8 +193,3 @@ Trabalha distribuindo o processamento em paralelo para cada fonte e unindo in me
 ### Go
 
 - [Iniciação](https://go-tour-br.appspot.com/welcome/1): Tutorial de iniciação em português.
-
-### Javascript
-
-- [Highlighter](https://www.npmjs.com/package/react-highlight-words): Destacar parte do texto. 
-- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en): Extensão para visualizar state React no Google Chrome.
