@@ -181,3 +181,4 @@ Trabalha distribuindo o processamento em paralelo para cada fonte e unindo in me
 ### Javascript
 
 - [Highlighter](https://www.npmjs.com/package/react-highlight-words): Destacar parte do texto. 
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en): Extensão para visualizar state React no Google Chrome.
