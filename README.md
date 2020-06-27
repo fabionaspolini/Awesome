@@ -30,7 +30,7 @@
 
 ### React
 
-- [Highlighter](https://www.npmjs.com/package/react-highlight-words): Destacar parte do texto. 
+- [Highlighter](https://www.npmjs.com/package/react-highlight-words): Destacar parte do texto.
 
 ---
 
@@ -62,7 +62,7 @@
 
 ---
 
-## Plugins 
+## Plugins
 
 ### Visual Studio Code (VSCode)
 
@@ -70,6 +70,7 @@
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Incrementando integração com Git.
 - [Numered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks): Marcar local no código e navegar entre marcações através de atalhos numérico.
 - [Bebel](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel): Syntax highlighting para React JSX, Flow e GraphQL.
+- [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces): Destacar espaços em branco a direita.
 
 ### Chrome
 
@@ -121,14 +122,14 @@
 
 ### [Debezium](https://debezium.io/)
 
-Ferramenta para stream de dados "Change Data Capture", é acoplado ao servidor de banco de dados e trabalha com os logs binários gerados pelos mesmo, notificando através do Kafka todo evento de insert/update/delete nas tabelas monitoradas.  
+Ferramenta para stream de dados "Change Data Capture", é acoplado ao servidor de banco de dados e trabalha com os logs binários gerados pelos mesmo, notificando através do Kafka todo evento de insert/update/delete nas tabelas monitoradas.
 Licença: Open Source livre para uso comercial.
 
 ### [Starburst Presto](https://www.starburstdata.com/starburst-presto-sql/)
 
-SQL Engine para manipular várias fontes de dados em simultâneo.  
-Possibilita conectar em N provedores de dadso relacionais, NoSQL, arquivos, sumarizando tudo através de syntax SQL e obter a combinação de todos os dados numa única consulta.  
-Trabalha distribuindo o processamento em paralelo para cada fonte e unindo in memory no servidor Presto e retornando a aplicação.  
+SQL Engine para manipular várias fontes de dados em simultâneo.
+Possibilita conectar em N provedores de dadso relacionais, NoSQL, arquivos, sumarizando tudo através de syntax SQL e obter a combinação de todos os dados numa única consulta.
+Trabalha distribuindo o processamento em paralelo para cada fonte e unindo in memory no servidor Presto e retornando a aplicação.
 
 ---
 
