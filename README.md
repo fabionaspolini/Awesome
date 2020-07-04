@@ -47,6 +47,7 @@
 - [Public Api's](https://github.com/public-apis/public-apis): Lista com diversas API's públicas para uso e testes.
 - [Fake Json](https://fakejson.com/): Mock JSON Api.
 - [Slido](https://www.sli.do/): Plataforma de enquetes.
+- [Mustache](https://mustache.github.io/): Template para configurar layout de email a ser populado com conteúdo de variáveis do sistema.
 
 ### Desktop
 
