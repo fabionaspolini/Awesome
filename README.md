@@ -23,6 +23,9 @@
 - [Quartz.NET](https://www.quartz-scheduler.net/): Sistema completo de agendamento de tarefas de código aberto que pode ser usado desde os aplicativos mais pequenos até os sistemas corporativos de grande escala. Versão .NET do projeto original [Java](http://www.quartz-scheduler.org/).
 - [NLog](https://nlog-project.org/): Poderoso gerador de logs com suporte a armazenamento em diferentes provedores de dados e persnalização do layout de escrita.
 - [CacheManager](http://cachemanager.michaco.net/): Biblioteca poderosa para pipeline de chaches.
+- [OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite): ORM leve com suporte a leitura, escrita e DDL.
+- [Dapper](https://github.com/StackExchange/Dapper/tree/master): Simple object mapper.
+- [Dapper.Contrib](https://github.com/StackExchange/Dapper/tree/master/Dapper.Contrib): Suporte a escrita de dados da library Dapper.
 
 ### Angular
 
@@ -72,6 +75,10 @@
 - [Numered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks): Marcar local no código e navegar entre marcações através de atalhos numérico.
 - [Bebel](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel): Syntax highlighting para React JSX, Flow e GraphQL.
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces): Destacar espaços em branco a direita.
+
+### Visual Studio
+
+- [IntelliSense Extender 2019](https://marketplace.visualstudio.com/items?itemName=Dreamescaper.IntellisenseExtender2019)
 
 ### Chrome
 
