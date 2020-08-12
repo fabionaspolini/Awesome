@@ -63,6 +63,11 @@
 - [NSwagStudio](https://github.com/RicoSuter/NSwag/wiki/NSwagStudio): Gerador de cliente HTTP .NET/TypeScript a partir da especificação Swagger da API.
 - [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit): Ferramenta de zoom e rabiscos útil para apresentações.
 - [MicMute](https://sourceforge.net/projects/micmute/): App Windows para ligar/desligar microfone pelo teclado e exibir status no systray.
+- [ASDF](https://asdf-vm.com/): Gerenciador de multiplas versões dos runtimes de desenvolvimento.
+
+### Utilitários
+
+- [OneDrive](https://github.com/abraunegg/onedrive): Client OneDrive por linha de comando compatível com Linux e Docker.
 
 ---
 
