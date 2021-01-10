@@ -70,7 +70,6 @@
 - [OneDrive](https://github.com/abraunegg/onedrive): Client OneDrive por linha de comando compatível com Linux e Docker.
 
 ---
-
 ## Plugins
 
 ### Visual Studio Code (VSCode)
@@ -80,6 +79,9 @@
 - [Numered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks): Marcar local no código e navegar entre marcações através de atalhos numérico.
 - [Bebel](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel): Syntax highlighting para React JSX, Flow e GraphQL.
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces): Destacar espaços em branco a direita.
+- [C#](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions): Criar classes pelo menu de contexto e facilitadores de código.
+- [dotnet](https://marketplace.visualstudio.com/items?itemName=leo-labs.dotnet): Adicionar packages do NuGet.
+
 
 ### Visual Studio
 
