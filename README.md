@@ -21,11 +21,13 @@
 - [Flurl](https://flurl.dev/): Fluent library para HTTP e URL.
 - [Hangfire](https://www.hangfire.io/): Uma maneira fácil de executar o processamento em segundo plano nos aplicativos .NET e .NET Core. Nenhum serviço do Windows ou processo separado é necessário. Aberto e gratuito para uso comercial.
 - [Quartz.NET](https://www.quartz-scheduler.net/): Sistema completo de agendamento de tarefas de código aberto que pode ser usado desde os aplicativos mais pequenos até os sistemas corporativos de grande escala. Versão .NET do projeto original [Java](http://www.quartz-scheduler.org/).
-- [NLog](https://nlog-project.org/): Poderoso gerador de logs com suporte a armazenamento em diferentes provedores de dados e persnalização do layout de escrita.
+- [NLog](https://nlog-project.org/): Gerador de logs com suporte a armazenamento em diferentes provedores de dados e persnalização do layout de escrita.
 - [CacheManager](http://cachemanager.michaco.net/): Biblioteca poderosa para pipeline de chaches.
 - [OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite): ORM leve com suporte a leitura, escrita e DDL.
 - [Dapper](https://github.com/StackExchange/Dapper/tree/master): Simple object mapper.
 - [Dapper.Contrib](https://github.com/StackExchange/Dapper/tree/master/Dapper.Contrib): Suporte a escrita de dados da library Dapper.
+- [PrimaryConstructor](https://github.com/chaowlert/PrimaryConstructor): Source Generator para auxilar no padrão de injeção de dependência.
+- [SourceInject](https://github.com/giggio/sourceinject): Ao registrar classe no container de injeção de dependências Microsoft.
 
 ### Angular
 
