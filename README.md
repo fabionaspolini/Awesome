@@ -28,6 +28,7 @@
 - [Dapper.Contrib](https://github.com/StackExchange/Dapper/tree/master/Dapper.Contrib): Suporte a escrita de dados da library Dapper.
 - [PrimaryConstructor](https://github.com/chaowlert/PrimaryConstructor): Source Generator para auxilar no padrão de injeção de dependência.
 - [SourceInject](https://github.com/giggio/sourceinject): Ao registrar classe no container de injeção de dependências Microsoft.
+- [Liversage Primitives Source Generator](https://github.com/Liversage/Primitives): Gerador de tipos primitivos para expressar o dominio.
 
 ### Angular
 
