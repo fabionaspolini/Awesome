@@ -84,6 +84,7 @@
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces): Destacar espaços em branco a direita.
 - [C#](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions): Criar classes pelo menu de contexto e facilitadores de código.
 - [dotnet](https://marketplace.visualstudio.com/items?itemName=leo-labs.dotnet): Adicionar packages do NuGet.
+- [vscode-solution-explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer): Carregar solution e projetos dotnet com detalhes de packages, references, solution folders.
 
 
 ### Visual Studio
