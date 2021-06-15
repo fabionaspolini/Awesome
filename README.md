@@ -85,6 +85,7 @@
 - [C#](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions): Criar classes pelo menu de contexto e facilitadores de código.
 - [dotnet](https://marketplace.visualstudio.com/items?itemName=leo-labs.dotnet): Adicionar packages do NuGet.
 - [vscode-solution-explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer): Carregar solution e projetos dotnet com detalhes de packages, references, solution folders.
+- [Tabnine - AI Code Completion](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode): Incrementar o auto complete.
 
 
 ### Visual Studio
