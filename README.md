@@ -26,9 +26,11 @@
 - [OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite): ORM leve com suporte a leitura, escrita e DDL.
 - [Dapper](https://github.com/StackExchange/Dapper/tree/master): Simple object mapper.
 - [Dapper.Contrib](https://github.com/StackExchange/Dapper/tree/master/Dapper.Contrib): Suporte a escrita de dados da library Dapper.
-- [PrimaryConstructor](https://github.com/chaowlert/PrimaryConstructor): Source Generator para auxilar no padrão de injeção de dependência.
-- [SourceInject](https://github.com/giggio/sourceinject): Ao registrar classe no container de injeção de dependências Microsoft.
-- [Liversage Primitives Source Generator](https://github.com/Liversage/Primitives): Gerador de tipos primitivos para expressar o dominio.
+- [C# Source Generators](https://github.com/amis92/csharp-source-generators): Lista de bibliotecas para Source Generators.
+  - [PrimaryConstructor](https://github.com/chaowlert/PrimaryConstructor): Source Generator para auxilar no padrão de injeção de dependência.
+  - [Data Builder Generator](https://github.com/dasMulli/data-builder-generator): Geração de código builder pattern para classes de dados.
+  - [SourceInject](https://github.com/giggio/sourceinject): Ao registrar classe no container de injeção de dependências Microsoft.
+  - [Liversage Primitives Source Generator](https://github.com/Liversage/Primitives): Gerador de tipos primitivos para expressar o dominio.
 
 ### Angular
 
