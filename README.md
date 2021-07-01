@@ -31,6 +31,7 @@
   - [Data Builder Generator](https://github.com/dasMulli/data-builder-generator): Geração de código builder pattern para classes de dados.
   - [SourceInject](https://github.com/giggio/sourceinject): Ao registrar classe no container de injeção de dependências Microsoft.
   - [Liversage Primitives Source Generator](https://github.com/Liversage/Primitives): Gerador de tipos primitivos para expressar o dominio.
+- [Extensões Entity Framework](https://dzone.com/articles/top-entity-framework-core-tools-and-extensions)
 
 ### Angular
 
