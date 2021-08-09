@@ -61,7 +61,7 @@
 - [Public Api's](https://github.com/public-apis/public-apis): Lista com diversas API's públicas para uso e testes.
 - [Fake Json](https://fakejson.com/): Mock JSON Api.
 - [Slido](https://www.sli.do/): Plataforma de enquetes.
-- [Markdown emoji](https://gist.github.com/rxaviers/7360908): Lista de emojis suportados por renderizadores Markdown
+- Markdown emoji [rxaviers](https://gist.github.com/rxaviers/7360908) e [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet): Lista de emojis suportados por renderizadores Markdown
 
 ### Desktop
 
