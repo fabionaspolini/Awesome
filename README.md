@@ -13,6 +13,10 @@
 
 ### .NET
 
+> Código com exemplo de uso das libs no [repositório](https://github.com/fabionaspolini/samples-dotnet).
+
+> Explicações no [post](https://fabionaspolini.medium.com/bibliotecas-para-incrementar-a-produtividade-em-c-net-52749e9329d3).
+
 - [Maestria Extensions Methods](https://github.com/orgs/MaestriaNet): Métodos de extensões para incrementar a produtividade em C#.
 - [Humanizer](https://github.com/Humanizr/Humanizer): Manipulação de strings, enums, times, timespans, numbers e quantidades para apresentação mais legível ao ser humano.
 - [FluentDateTime](https://github.com/FluentDateTime/FluentDateTime): Extensões para operações com data e hora.
@@ -32,6 +36,7 @@
   - [SourceInject](https://github.com/giggio/sourceinject): Ao registrar classe no container de injeção de dependências Microsoft.
   - [Liversage Primitives Source Generator](https://github.com/Liversage/Primitives): Gerador de tipos primitivos para expressar o dominio.
 - [Extensões Entity Framework](https://dzone.com/articles/top-entity-framework-core-tools-and-extensions)
+- [Mustache](https://mustache.github.io/): Template para configurar layout de email a ser populado com conteúdo de variáveis do sistema.
 
 ### Angular
 
@@ -56,7 +61,7 @@
 - [Public Api's](https://github.com/public-apis/public-apis): Lista com diversas API's públicas para uso e testes.
 - [Fake Json](https://fakejson.com/): Mock JSON Api.
 - [Slido](https://www.sli.do/): Plataforma de enquetes.
-- [Mustache](https://mustache.github.io/): Template para configurar layout de email a ser populado com conteúdo de variáveis do sistema.
+- [Markdown emoji](https://gist.github.com/rxaviers/7360908): Lista de emojis suportados por renderizadores Markdown
 
 ### Desktop
 
