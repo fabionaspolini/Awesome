@@ -62,6 +62,8 @@
 - [Fake Json](https://fakejson.com/): Mock JSON Api.
 - [Slido](https://www.sli.do/): Plataforma de enquetes.
 - Markdown emoji [rxaviers](https://gist.github.com/rxaviers/7360908) e [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet): Lista de emojis suportados por renderizadores Markdown
+- [Draw.io](https://draw.io): Criar diagramas
+- [LucidChart](https://app.lucidchart.com/): Criar diagramas
 
 ### Desktop
 
